@@ -1,27 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "f46d955fab5fa77a669e",
+    "revision": "d473fe17dcbb1a637a42",
     "url": "/Subtraction_CountingObjects/static/css/main.ef7d6e46.chunk.css"
   },
   {
-    "revision": "f46d955fab5fa77a669e",
-    "url": "/Subtraction_CountingObjects/static/js/main.61da7953.chunk.js"
+    "revision": "d473fe17dcbb1a637a42",
+    "url": "/Subtraction_CountingObjects/static/js/main.cfa56dc6.chunk.js"
   },
   {
-    "revision": "82d6c6690b39b452d2ee",
-    "url": "/Subtraction_CountingObjects/static/js/runtime~main.5eaf826b.js"
+    "revision": "8c6441e27733b741f644",
+    "url": "/Subtraction_CountingObjects/static/js/runtime~main.1a9791df.js"
   },
   {
-    "revision": "222a96d02b055ec5112e",
+    "revision": "63006394af630f67a0e5",
     "url": "/Subtraction_CountingObjects/static/css/2.979351be.chunk.css"
   },
   {
-    "revision": "222a96d02b055ec5112e",
-    "url": "/Subtraction_CountingObjects/static/js/2.37fd7ec0.chunk.js"
+    "revision": "63006394af630f67a0e5",
+    "url": "/Subtraction_CountingObjects/static/js/2.d8e7facb.chunk.js"
   },
   {
-    "revision": "3060f7e2494e9b154c06",
-    "url": "/Subtraction_CountingObjects/static/js/3.2472ecb7.chunk.js"
+    "revision": "d78fa6f3b0e6d65cd586",
+    "url": "/Subtraction_CountingObjects/static/js/3.1d94b6e0.chunk.js"
   },
   {
     "revision": "40d8e09c1bc1e01df2f2d0350718c089",
@@ -72,6 +72,14 @@ self.__precacheManifest = [
     "url": "/Subtraction_CountingObjects/static/media/rooster.7890a5da.png"
   },
   {
+    "revision": "7360a269fa89ec8922a9fb9354820523",
+    "url": "/Subtraction_CountingObjects/static/media/sound.7360a269.png"
+  },
+  {
+    "revision": "6d3e6e31968de6abd43c75375d97964a",
+    "url": "/Subtraction_CountingObjects/static/media/ca.6d3e6e31.mp3"
+  },
+  {
     "revision": "c040d63c530ff46d273f95822ecb12e7",
     "url": "/Subtraction_CountingObjects/static/media/football10.c040d63c.png"
   },
@@ -92,11 +100,19 @@ self.__precacheManifest = [
     "url": "/Subtraction_CountingObjects/static/media/background.612faa13.gif"
   },
   {
+    "revision": "a0d6b13874a29393b0f8252f2adb5fa7",
+    "url": "/Subtraction_CountingObjects/static/media/grocerySound.a0d6b138.mp3"
+  },
+  {
+    "revision": "f02ac89a44b28acd80cb6b0399adbf8f",
+    "url": "/Subtraction_CountingObjects/static/media/mute.f02ac89a.png"
+  },
+  {
     "revision": "cabc22c6e80bc043c10b098b6b8854bb",
     "url": "/Subtraction_CountingObjects/static/media/bowl.cabc22c6.png"
   },
   {
-    "revision": "e4c3460d80ab3e599eaf86de51932e59",
+    "revision": "358ccb810b23e7e467f004810da7d8f2",
     "url": "/Subtraction_CountingObjects/index.html"
   }
 ];
