@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Subtraction_CountingObjects/precache-manifest.32a3ed56f778020b5be26faeb0701a49.js"
+  "/Subtraction_CountingObjects/precache-manifest.e556e714fc6bd80bf8ee7e8feaa54527.js"
 );
 
 workbox.clientsClaim();

@@ -1,27 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "9e1c808363b2507d196a",
+    "revision": "27c093bd0496b83348af",
     "url": "/Subtraction_CountingObjects/static/css/main.50dc3102.chunk.css"
   },
   {
-    "revision": "9e1c808363b2507d196a",
-    "url": "/Subtraction_CountingObjects/static/js/main.20b047d9.chunk.js"
+    "revision": "27c093bd0496b83348af",
+    "url": "/Subtraction_CountingObjects/static/js/main.2b606b82.chunk.js"
   },
   {
-    "revision": "83d81bac5762c10a5f3c",
-    "url": "/Subtraction_CountingObjects/static/js/runtime~main.273b61f6.js"
+    "revision": "89e3d996147f4e94b68e",
+    "url": "/Subtraction_CountingObjects/static/js/runtime~main.95a65513.js"
   },
   {
-    "revision": "e60cca9691022a91b889",
+    "revision": "95729e3bb9b82d15360c",
     "url": "/Subtraction_CountingObjects/static/css/2.979351be.chunk.css"
   },
   {
-    "revision": "e60cca9691022a91b889",
-    "url": "/Subtraction_CountingObjects/static/js/2.0ca8450a.chunk.js"
+    "revision": "95729e3bb9b82d15360c",
+    "url": "/Subtraction_CountingObjects/static/js/2.c9102092.chunk.js"
   },
   {
-    "revision": "76deaddc7353ac5a7622",
-    "url": "/Subtraction_CountingObjects/static/js/3.9d4a091a.chunk.js"
+    "revision": "4a73087835b5ac318af3",
+    "url": "/Subtraction_CountingObjects/static/js/3.0160d469.chunk.js"
   },
   {
     "revision": "40d8e09c1bc1e01df2f2d0350718c089",
@@ -128,7 +128,7 @@ self.__precacheManifest = [
     "url": "/Subtraction_CountingObjects/static/media/mute.f02ac89a.png"
   },
   {
-    "revision": "b612869e0651b9e53a162949abc3e66c",
+    "revision": "049cdeb5f8db1046434f30e4dc35e633",
     "url": "/Subtraction_CountingObjects/index.html"
   }
 ];
